@@ -1,4 +1,6 @@
-# Premier_League_2018-2019_Player_Analyses: A mathematical data analysis of this season's players
+# Premier League 2018-2019 Player Analyses: A mathematical data analysis of this season's players
+
+---
 
 ## Getting started
 To run this notebook, you will need to have Python installed, as well as the following libraries:
